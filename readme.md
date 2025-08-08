@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm Subbu (K Subramanyeshwara)
+# Hi there! 👋 I'm K Subramanyeshwara
 
 ## 🚀 About Me
-- 💻 Founding Engineer at FoxSell Bundles.
+- 💻 Software Engineer
 - 🌱 Always exploring and learning new technologies
 - 👯 Open to collaborating on innovative web projects
 
